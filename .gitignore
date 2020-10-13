@@ -32,12 +32,13 @@ msbuild.wrn
 .vs/
 
 # Compiled Source
-*.com
+*.comgit commit -
 *.class
 *.dll
 *.exe
 *.o
 *.so
+git push -u origin master
 
 # Terraform
-.terraform
+.terraf
